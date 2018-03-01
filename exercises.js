@@ -9,6 +9,14 @@ Now, unleash your coding beast!
 /*1.  Variables with a String as their value.
 Declare variables named yourName, neighborName, teacherName.  Console log each variable.*/
 
+var yourName = "test";
+var neighborName = "test2";
+var teacherName = "test3";
+
+console.log(yourName);
+console.log(neighborName);
+console.log(teacherName);
+
 /*2. Variable with a Number as their value.
 Declare variables named numberOfFloorsBurjKhalifa, TokyoOlympicsYear. Please assign the actual data for each variable.
 Console log each variable.*/
